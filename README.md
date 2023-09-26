@@ -5,8 +5,10 @@ This repository contains the project work titled "Quantitative Stock Trading Str
 BSc Thesis Project, HKU, HKSAR – (Jan 2022 – May 2022)
 • Objectives: Developed a quantitative stock trading strategy using ML to predict stock prices and
 analyze financial news sentiment.
+
 • Methods: Used technical indicators like RSI and benchmark stock prices like S&P500 to predict
 prices with ML models including MLP, RNN, LSTM, ARIMA, etc. Conducted sentiment analysis of financial news with a large pre-trained language model. Combined price and sentiment analysis into a trading strategy.
+
 • Outcomes: Evaluated through backtesting, achieving higher ROI than the B&S benchmark.
 
 ## Introduction
@@ -30,20 +32,8 @@ All algorithms used belong to the regression method, allowing for the prediction
 
 The repository is organized as follows:
 
-- `data`: This folder contains the historical data obtained from Yahoo Finance for the Hong Kong stock market.
 - `code`: This folder contains the code implementation of the machine learning algorithms and the data pre-processing steps.
-- `results`: This folder contains the predicted target stock returns and prices, as well as the results of the simulated trade with the target stocks.
 - `docs`: This folder contains the written report of the project (PDF format).
-
-## Usage
-
-To use the code in this repository, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/repo-name.git`
-2. Install the required dependencies: [List the dependencies and instructions to install them]
-3. Navigate to the `code` directory: `cd code`
-4. Execute the main script: [Provide the command to run the script along with any required arguments]
-5. The predicted stock returns and prices will be generated in the `results` folder.
 
 ## Results and Discussion
 
