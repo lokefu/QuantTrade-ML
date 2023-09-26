@@ -3,6 +3,7 @@
 This repository contains the project work titled "Quantitative Stock Trading Strategy Development with Machine Learning" conducted as part of the STAT3799 Directed Studies in Statistics course at The University of Hong Kong.
 
 BSc Thesis Project, HKU, HKSAR – (Jan 2022 – May 2022)
+
 • Objectives: Developed a quantitative stock trading strategy using ML to predict stock prices and
 analyze financial news sentiment.
 
